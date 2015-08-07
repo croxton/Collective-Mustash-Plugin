@@ -24,7 +24,7 @@ class Stash_collective_pi extends Mustash_plugin
 
 	/**
 	 * This function is required to be present,
-	 * but Collective sends no arguements so we don't need to do anything
+	 * but Collective sends no arguments so we don't need to do anything
 	 *
 	 * @access protected
 	 * @return void
